@@ -1,0 +1,22 @@
+[{
+  "id": 1,
+  "name": "iPhone 7 Plus",
+  "description": "Apple, 32GB, RAM: 3GB, iOS13",
+  "price": 17000000,
+  "image": "https://duongphi.com/wp-content/uploads/2020/08/iPhone7-Plus-trang-01-1.png",
+  "category_id": 1
+}, {
+  "id": 2,
+    "name": "iPad Pro 2020",
+  "description": "Apple, 128GB, RAM: 6GB",
+  "price": 37000000,
+  "image": "https://duongphi.com/wp-content/uploads/2020/08/2021_12_05_11_33_IMG_7487-600x600.png",
+  "category_id": 2
+}, {
+  "id": 3,
+  "name": "Galaxy Note 10 Plus",
+  "description": "Samsung, 64GB, RAML: 6GB",
+  "price": 24000000,
+  "image": "https://images.samsung.com/is/image/samsung/vn/galaxy-note10/gallery/vn-galaxy-note10-sm-n970-sm-n970fzkdxxv-frontaurablack-175469346?$624_624_PNG$",
+  "category_id": 1
+}]
